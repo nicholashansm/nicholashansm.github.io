@@ -14,14 +14,14 @@ const projects = [
     title: "Age Prediction Algorithm Research",
     description: "I conducted a research project titled \"Age Estimation Through Facial Images using Deep CNN Pretrained Model and Particle Swarm Optimization,\" which was both submitted and presented at ICOBAR 2023. This project delved into the innovative realm of utilizing deep CNN pretrained models and the power of Particle Swarm Optimization for accurate age estimation from facial images.",
     image: "/images/portfolio-3.png",
-    href: "/research"
+    href: "/ageEstimation"
   },
   {
     id: 3,
     title: "Age Prediction Discord Bot",
     description: "Building upon the findings of my research, I took the initiative to bring it to life by creating a functional Discord bot. This bot utilizes the insights gained from the research to predict a person's age through uploaded pictures using the models that I've used in my research. It's an exciting fusion of theory and practical implementation that showcases the real-world applications of my work.",
     image: "/images/portfolio-2.png",
-    href: "/agebot"
+    href: "/ageBot"
   },
   {
     id: 4,

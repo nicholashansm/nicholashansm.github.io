@@ -57,7 +57,7 @@ export default function AgeBotPage() {
                 className="w-full max-w-4xl mx-auto rounded-lg shadow-lg"
                 poster="/discord-bot-age-prediction.png"
               >
-                <source src="/videos/age-prediction.mp4" type="video/mp4" />
+                <source src="/videos/agePrediction.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
